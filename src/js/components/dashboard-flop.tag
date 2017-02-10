@@ -1,24 +1,24 @@
 <dashboard-flop>
 
     <div id="mostread">
-        <h3>{ opts.data.flop[0].title }</h3><span class="rank">1</span>
-        <a class="bar" style="width: { firstValue }px;" href="{ opts.data.flop[0].url }" target="_blank>" title="Zum Artikel">
+        <h3>{ opts.data.flop[0].title }</h3>
+        <a class="bar flop" style="width: { firstValue }px;" href="{ opts.data.flop[0].url }" target="_blank>" title="Zum Artikel">
             { opts.data.flop[0].Seitenaufrufe }
         </a>
-        <h3>{ opts.data.flop[1].title }</h3><span class="rank">2</span>
-        <a class="bar" style="width: { secondValue }px;" href="{ opts.data.flop[1].url }" target="_blank>" title="Zum Artikel">
+        <h3>{ opts.data.flop[1].title }</h3>
+        <a class="bar flop" style="width: { secondValue }px;" href="{ opts.data.flop[1].url }" target="_blank>" title="Zum Artikel">
             { opts.data.flop[1].Seitenaufrufe }
         </a>
-        <h3>{ opts.data.flop[2].title }</h3><span class="rank">3</span>
-        <a class="bar" style="width: { thirdValue }px;" href="{ opts.data.flop[2].url }" target="_blank>" title="Zum Artikel">
+        <h3>{ opts.data.flop[2].title }</h3>
+        <a class="bar flop" style="width: { thirdValue }px;" href="{ opts.data.flop[2].url }" target="_blank>" title="Zum Artikel">
             { opts.data.flop[2].Seitenaufrufe }
         </a>
-        <h3>{ opts.data.flop[3].title }</h3><span class="rank">4</span>
-        <a class="bar" style="width: { fourthValue }px;" href="{ opts.data.flop[3].url }" target="_blank>" title="Zum Artikel">
+        <h3>{ opts.data.flop[3].title }</h3>
+        <a class="bar flop" style="width: { fourthValue }px;" href="{ opts.data.flop[3].url }" target="_blank>" title="Zum Artikel">
             { opts.data.flop[3].Seitenaufrufe }
         </a>
-        <h3>{ opts.data.flop[4].title }</h3><span class="rank">5</span>
-        <a class="bar" style="width: { fifthValue }px;" href="{ opts.data.flop[4].url }" target="_blank>" title="Zum Artikel">
+        <h3>{ opts.data.flop[4].title }</h3>
+        <a class="bar flop" style="width: { fifthValue }px;" href="{ opts.data.flop[4].url }" target="_blank>" title="Zum Artikel">
             { opts.data.flop[4].Seitenaufrufe }
         </a>
     </div>

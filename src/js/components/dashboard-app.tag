@@ -1,35 +1,32 @@
 <dashboard-app>
 
-    <article class="wide">
-
-    <dashboard-selector weeks="{ opts.weeklyData }" onnextclick="{ this.showNext }"></dashboard-selector>
-
+    <!-- Logo, Titel & Einleitung -->
+    <article class="wide intro">
+        <h1>tageswoche.ch in Zahlen, { activeWeek }</h1>
     </article>
 
     <article class="wide">
-        <h2>Kennzahlen und die meistgelesenen Topics</h2>
-    </article>
 
-    <article class="short more">
-
-        <dashboard-meta data="{ dataset }"></dashboard-meta>
+    <dashboard-selector weeks="{ opts.weeklyData }" aktiv="{ activeWeek }" onnextclick="{ this.changeWeek }"></dashboard-selector>
 
     </article>
 
-    <article class="wide">
-        <h2>Top und Flop der letzten Woche</h2>
+    <dashboard-meta data="{ dataset }" previous="{ previousDataset }"></dashboard-meta>
 
-    </article>
 
     <!-- Top -->
-    <article class="short more">
+    <article class="short margin">
+
+        <h2>Top</h2>
 
         <dashboard-top data="{ dataset }"></dashboard-top>
 
     </article>
 
     <!-- Flop -->
-    <article class="short more">
+    <article class="short margin">
+
+        <h2>Flop</h2>
 
         <dashboard-flop data="{ dataset }"></dashboard-flop>
 
@@ -38,17 +35,27 @@
 
     <script type="text/babel">
 
-        this.activeWeek = 'kw_4_2017'
+        this.activeWeek = 'KW 4'
+
+        this.previousID = 3
 
         const findWeek = (data, current) => {
         return data.find(({week}) => week === current)
         }
 
+        const findID = (data, previous) => {
+            return data.find(({id}) => id === previous)
+        }
+
+        this.previousDataset = findID(opts.weeklyData, this.previousID)
+
         this.dataset = findWeek(opts.weeklyData, this.activeWeek)
 
-        this.showNext = (id) => {
+        this.changeWeek = (week , id) => {
             this.update({
-                dataset: findWeek(this.opts.weeklyData, id)
+                dataset: findWeek(this.opts.weeklyData, week),
+                activeWeek: week,
+                previousDataset: findID(opts.weeklyData, (id - 1))
             })
         }
 

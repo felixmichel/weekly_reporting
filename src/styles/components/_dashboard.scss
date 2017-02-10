@@ -2,13 +2,12 @@
   font-family: $titel;
   background-color: #008249;
   display: block;
-  height: 20px;
-  margin-left: 40px;
+  height: 15px;
   margin-top: 6px;
   text-align: right;
   text-decoration: none;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   padding-right: 20px;
   padding-left: 20px;
   color: white;
@@ -16,25 +15,20 @@
   font-size: 14px;
 }
 
+#mostread {
+  padding-top: 10px;
+}
+
 #mostread h3 {
-  margin-top: 20px;
+  margin-top: 15px;
   margin-bottom: 5px;
   clear: left;
   font-family: $titel;
 }
 
-#mostread .rank {
-  position: relative;
-  left:0;
-  top: -3px;
-  font-size: 60px;
-  font-family: Impact;
-  float:left;
-}
-
 
 .bar:hover {
-  background-color: darken( #008249, 5% )
+  background-color: darken( #008249, 5% );
 }
 
 .metainfo {
@@ -45,9 +39,40 @@
   font-size: 28px;
   font-family: $titel;
   color: #008249;
+  padding-right: 10px;
 }
 
 .infotext {
   font-size: 18px;
   font-family: $titel;
+}
+
+.selector {
+  float: left;
+  padding-right: 10px;
+  font-size: 16px;
+  font-family: $titel;
+}
+
+.selector a {
+  color: #008249;
+  text-decoration: none;
+}
+
+.selector a:hover {
+  color: darken( #008249, 5% );
+  text-decoration: underline;
+}
+
+.flagged {
+  color: red;
+}
+
+.flop {
+  background-color: red;
+}
+
+
+.flop:hover {
+  background-color: darken( red, 10% );
 }
