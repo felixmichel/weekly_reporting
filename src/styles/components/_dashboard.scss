@@ -1,18 +1,73 @@
 .bar {
-  font-family: $titel;
-  background-color: #008249;
-  display: block;
   height: 15px;
-  margin-top: 6px;
+  margin-top: 5px;
   text-align: right;
-  text-decoration: none;
   padding-top: 5px;
   padding-bottom: 5px;
-  padding-right: 20px;
-  padding-left: 20px;
-  color: white;
-  font-weight: 500;
+  float: left;
+}
+
+.pageviews {
+  background-color: $color-pageviews;
+  &:hover {
+    background-color: darken( $color-pageviews, 5% );
+  }
+}
+
+.shares {
+  background-color: $color-shares;
+  &:hover {
+    background-color: darken( $color-shares, 5% );
+  }
+}
+
+.comments {
+  background-color: $color-comments;
+  &:hover {
+    background-color: darken( $color-comments, 5% );
+  }
+
+}
+
+.readtime {
+  background-color: $color-readtime;
+  &:hover {
+    background-color: darken( $color-readtime, 5% );
+  }
+}
+
+.label {
+  font-family: $titel;
   font-size: 14px;
+  text-decoration: none;
+  color: black;
+  padding-left: 5px;
+
+}
+
+.legend-label {
+  font-family: $titel;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+  float: left;
+  margin-right: 5px;
+}
+
+.legend {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    float: left;
+}
+
+.legend-box {
+  display: inline-block;
+}
+
+.bar-link {
+  display: block;
+  overflow: auto;
 }
 
 #mostread {
@@ -21,14 +76,7 @@
 
 #mostread h3 {
   margin-top: 15px;
-  margin-bottom: 5px;
-  clear: left;
   font-family: $titel;
-}
-
-
-.bar:hover {
-  background-color: darken( #008249, 5% );
 }
 
 .metainfo {
@@ -47,32 +95,18 @@
   font-family: $titel;
 }
 
+
 .selector {
-  float: left;
+  color: black;
+  text-decoration: none;
   padding-right: 10px;
-  font-size: 16px;
   font-family: $titel;
 }
 
-.selector a {
-  color: #008249;
-  text-decoration: none;
-}
-
-.selector a:hover {
+.selector:hover {
   color: darken( #008249, 5% );
-  text-decoration: underline;
 }
 
 .flagged {
   color: red;
-}
-
-.flop {
-  background-color: red;
-}
-
-
-.flop:hover {
-  background-color: darken( red, 10% );
 }

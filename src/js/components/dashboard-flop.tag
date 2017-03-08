@@ -1,26 +1,20 @@
 <dashboard-flop>
 
     <div id="mostread">
-        <h3>{ opts.data.flop[0].title }</h3>
-        <a class="bar flop" style="width: { firstValue }px;" href="{ opts.data.flop[0].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.flop[0].Seitenaufrufe }
+
+        <div  each="{ entry in opts.data.flop }">
+
+        <h3 style="clear: left;">{ entry.title }</h3>
+        <a href="{ entry.url }" class="bar-link">
+            <div style="width: { y(entry.kennzahl_pageviews) }px;" class="bar pageviews"></div>
+            <div style="width: { y(entry.kennzahl_shares) }px;" class="bar shares"></div>
+            <div style="width: { y(entry.kennzahl_comments) }px;" class="bar comments"></div>
+            <div style="width: { y(entry.kennzahl_readtime) }px;" class="bar readtime"></div>
+            <div class="bar label">{ entry.erfolgsindex.toFixed(1) }</div>
         </a>
-        <h3>{ opts.data.flop[1].title }</h3>
-        <a class="bar flop" style="width: { secondValue }px;" href="{ opts.data.flop[1].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.flop[1].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.flop[2].title }</h3>
-        <a class="bar flop" style="width: { thirdValue }px;" href="{ opts.data.flop[2].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.flop[2].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.flop[3].title }</h3>
-        <a class="bar flop" style="width: { fourthValue }px;" href="{ opts.data.flop[3].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.flop[3].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.flop[4].title }</h3>
-        <a class="bar flop" style="width: { fifthValue }px;" href="{ opts.data.flop[4].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.flop[4].Seitenaufrufe }
-        </a>
+
+    </div>
+
     </div>
 
     <script type="text/babel">
@@ -29,20 +23,14 @@
 
         this.on('update', () => {
 
-            var width = 450
+            var width = 400
 
-            var y = d3.scaleLinear()
-                    .range([0, width]);
+            this.y = d3.scaleLinear().range([0, width])
 
-            y.domain([0, d3.max(opts.data.top, function (d) {
-                return d.Seitenaufrufe;
-            })]);
+            this.y.domain([0, d3.max(opts.data.top, function (d) {
+                return d.erfolgsindex
+            })])
 
-            this.firstValue = y(opts.data.flop[0].Seitenaufrufe)
-            this.secondValue = y(opts.data.flop[1].Seitenaufrufe)
-            this.thirdValue = y(opts.data.flop[2].Seitenaufrufe)
-            this.fourthValue = y(opts.data.flop[3].Seitenaufrufe)
-            this.fifthValue = y(opts.data.flop[4].Seitenaufrufe)
 
         })
 

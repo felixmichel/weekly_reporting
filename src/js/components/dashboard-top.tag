@@ -1,26 +1,20 @@
 <dashboard-top>
 
     <div id="mostread">
-        <h3>{ opts.data.top[0].title }</h3>
-        <a class="bar" style="width: { firstValue }px;" href="{ opts.data.top[0].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.top[0].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.top[1].title }</h3>
-        <a class="bar" style="width: { secondValue }px;" href="{ opts.data.top[1].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.top[1].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.top[2].title }</h3>
-        <a class="bar" style="width: { thirdValue }px;" href="{ opts.data.top[2].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.top[2].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.top[3].title }</h3>
-        <a class="bar" style="width: { fourthValue }px;" href="{ opts.data.top[3].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.top[3].Seitenaufrufe }
-        </a>
-        <h3>{ opts.data.top[4].title }</h3>
-        <a class="bar" style="width: { fifthValue }px;" href="{ opts.data.top[4].url }" target="_blank>" title="Zum Artikel">
-            { opts.data.top[4].Seitenaufrufe }
-        </a>
+
+        <div  each="{ entry in opts.data.top }">
+
+            <h3 style="clear: left;">{ entry.title }</h3>
+            <a href="{ entry.url }" class="bar-link">
+                <div style="width: { y(entry.kennzahl_pageviews) }px;" class="bar pageviews"></div>
+                <div style="width: { y(entry.kennzahl_shares) }px;" class="bar shares"></div>
+                <div style="width: { y(entry.kennzahl_comments) }px;" class="bar comments"></div>
+                <div style="width: { y(entry.kennzahl_readtime) }px;" class="bar readtime"></div>
+                <div class="bar label">{ entry.erfolgsindex.toFixed(1) }</div>
+            </a>
+
+        </div>
+
     </div>
 
 
@@ -33,17 +27,12 @@
 
             var width = 400
 
-            var y = d3.scaleLinear().range([0, width])
+            this.y = d3.scaleLinear().range([0, width])
 
-            y.domain([0, d3.max(opts.data.top, function (d) {
-                return d.Seitenaufrufe;
+            this.y.domain([0, d3.max(opts.data.top, function (d) {
+                return d.erfolgsindex
             })])
 
-            this.firstValue = y(opts.data.top[0].Seitenaufrufe)
-            this.secondValue = y(opts.data.top[1].Seitenaufrufe)
-            this.thirdValue = y(opts.data.top[2].Seitenaufrufe)
-            this.fourthValue = y(opts.data.top[3].Seitenaufrufe)
-            this.fifthValue = y(opts.data.top[4].Seitenaufrufe)
 
         })
 

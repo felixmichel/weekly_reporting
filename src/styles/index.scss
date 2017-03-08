@@ -4,15 +4,6 @@
 @import 'layout';
 @import 'components/dashboard';
 
-header {
-  position: fixed;
-  z-index: 10;
-  width: 100%;
-  height:61px;
-  background-color:$lightgrey;
-  border-bottom:1px solid $mediumgrey;
-  display:block;
-}
 
 .container {
   max-width:$max-width-content;

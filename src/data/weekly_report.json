@@ -1,224 +1,1152 @@
 [
   {
+    "facebook_interaktionen": 1325,
     "flop": [
       {
-        "Seitenaufrufe": 8,
-        "article_id": 740966.0,
+        "erfolgsindex": 0.0244689641,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0017599609,
+        "kennzahl_readtime": 0.0227090032,
+        "kennzahl_shares": 0.0,
+        "title": "Wie sehen Sie das, Herr K\u00fcnzli?",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741545/wie-sehen-sie-das-herr-kuenzli.htm"
+      },
+      {
+        "erfolgsindex": 0.0522237368,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.000977756,
+        "kennzahl_readtime": 0.0512459807,
+        "kennzahl_shares": 0.0,
+        "title": "Virtuelle Realit\u00e4t \u2013 ein m\u00e4chtiges Spielzeug",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741499/virtuelle-realitaet-ein-maechtiges-spielzeug.htm"
+      },
+      {
+        "erfolgsindex": 0.1121816024,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0531899291,
+        "kennzahl_readtime": 0.0275545475,
+        "kennzahl_shares": 0.0314371257,
+        "title": "Jetzt einsteigen: Unser Tippspiel ist wieder am Start",
+        "url": "http://www.tageswoche.ch/de/2017_5/sport/741420/jetzt-einsteigen-unser-tippspiel-ist-wieder-am-start.htm"
+      },
+      {
+        "erfolgsindex": 0.1549310527,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0479100464,
+        "kennzahl_readtime": 0.0845659164,
+        "kennzahl_shares": 0.0224550898,
+        "title": "Der Ball rollt wieder \u2013 das Wichtigste zum Schweizer Fussball",
+        "url": "http://www.tageswoche.ch/de/2017_5/sport/741610/der-ball-rollt-wieder-das-wichtigste-zum-schweizer-fussball.htm"
+      },
+      {
+        "erfolgsindex": 0.15762205,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0447812271,
+        "kennzahl_readtime": 0.1128408229,
+        "kennzahl_shares": 0.0,
+        "title": "DJ Flink erz\u00e4hlt von der DJ-WM in Chile",
+        "url": "http://www.tageswoche.ch/de/2017_5/kultur/741467/dj-flink-erzaehlt-von-der-dj-wm-in-chile.htm"
+      },
+      {
+        "erfolgsindex": 0.1879459114,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0439990222,
+        "kennzahl_readtime": 0.1439468891,
+        "kennzahl_shares": 0.0,
+        "title": "Die BaZ macht Politik, BVB streiten mit Mitarbeiter und Allschwils Milchh\u00fcsli schliesst ",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741502/die-baz-macht-politik-bvb-streiten-mit-mitarbeiter-und-allschwils-milchhuesli-schliesst.htm"
+      },
+      {
+        "erfolgsindex": 0.1944487128,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1161574187,
+        "kennzahl_readtime": 0.0558362043,
+        "kennzahl_shares": 0.0224550898,
+        "title": "Feinf\u00fchliges Psychogramm einer geheimnisvollen Stadtnomadin",
+        "url": "http://www.tageswoche.ch/de/2017_5/kultur/741450/feinfuehliges-psychogramm-einer-geheimnisvollen-stadtnomadin.htm"
+      },
+      {
+        "erfolgsindex": 0.1960144731,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0619897336,
+        "kennzahl_readtime": 0.1340247395,
+        "kennzahl_shares": 0.0,
+        "title": "Tramblockade, Chemiehavarien und Mim\u00f6sli-Gate",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741311/tramblockade-chemiehavarien-und-mimoesli-gate.htm"
+      },
+      {
+        "erfolgsindex": 0.2058984619,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1102908824,
+        "kennzahl_readtime": 0.0956075795,
+        "kennzahl_shares": 0.0,
+        "title": "Mohamed Elyounoussi: \u00abIch hoffe, dass diese Position jetzt mir geh\u00f6rt\u00bb ",
+        "url": "http://www.tageswoche.ch/de/2017_5/sport/741697/mohamed-elyounoussi-ich-hoffe-dass-diese-position-jetzt-mir-gehoert.htm"
+      },
+      {
+        "erfolgsindex": 0.2192313405,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0760694207,
+        "kennzahl_readtime": 0.12070683,
+        "kennzahl_shares": 0.0224550898,
+        "title": "Nur wenige unsauber deklarierte Nebeneink\u00fcnfte in der Basler Verwaltung",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741426/nur-wenige-unsauber-deklarierte-nebeneinkuenfte-in-der-basler-verwaltung.htm"
+      },
+      {
+        "erfolgsindex": 0.2215391331,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0709850892,
+        "kennzahl_readtime": 0.1415720079,
+        "kennzahl_shares": 0.0089820359,
+        "title": "Ein Filmkritiker durchleuchtet den Faschismus",
+        "url": "http://www.tageswoche.ch/de/2017_5/kultur/741410/ein-filmkritiker-durchleuchtet-den-faschismus.htm"
+      },
+      {
+        "erfolgsindex": 0.2281877424,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1202639941,
+        "kennzahl_readtime": 0.1079237483,
+        "kennzahl_shares": 0.0,
+        "title": "Alles \u00fcberwacht? Alles im Griff? Alles Roger",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741240/alles-ueberwacht-alles-im-griff-alles-roger.htm"
+      },
+      {
+        "erfolgsindex": 0.2418972683,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0901491078,
+        "kennzahl_readtime": 0.1382751067,
+        "kennzahl_shares": 0.0134730539,
+        "title": "Leidenschaft und Wille halten Coolness und Erfahrung in Schach",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741461/leidenschaft-und-wille-halten-coolness-und-erfahrung-in-schach.htm"
+      },
+      {
+        "erfolgsindex": 0.2454916849,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.097775605,
+        "kennzahl_readtime": 0.1072969182,
+        "kennzahl_shares": 0.0404191617,
+        "title": "Picasso und andere Meister, wie Ernst Beyeler sie sah",
+        "url": "http://www.tageswoche.ch/de/2017_5/kultur/741629/picasso-und-andere-meister-wie-ernst-beyeler-sie-sah.htm"
+      },
+      {
+        "erfolgsindex": 0.2602919131,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.066096309,
+        "kennzahl_readtime": 0.1807225502,
+        "kennzahl_shares": 0.0134730539,
+        "title": "Keiner zu klein, gr\u00f6sser als sein Bruder zu sein ",
+        "url": "http://www.tageswoche.ch/de/2017_5/kultur/741315/keiner-zu-klein-groesser-als-sein-bruder-zu-sein.htm"
+      }
+    ],
+    "id": 5,
+    "nutzer": 85302,
+    "pageviews_news": 90931,
+    "pageviews_newswire": 15247,
+    "pageviews_total": 106178,
+    "published_articles": 53,
+    "top": [
+      {
+        "erfolgsindex": 5.2195613818,
+        "kennzahl_comments": 0.2045454545,
+        "kennzahl_pageviews": 4.571791738,
+        "kennzahl_readtime": 0.0929247881,
+        "kennzahl_shares": 0.3502994012,
+        "title": "Entlassung bei der \u00abBasler Zeitung\u00bb",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741541/entlassung-bei-der-basler-zeitung.htm"
+      },
+      {
+        "erfolgsindex": 4.7417678627,
+        "kennzahl_comments": 0.6136363636,
+        "kennzahl_pageviews": 2.1256416524,
+        "kennzahl_readtime": 0.206082661,
+        "kennzahl_shares": 1.7964071856,
+        "title": "\u00abBasler Zeitung\u00bb schreibt Medienmitteilung f\u00fcr B\u00fcrgerliche gleich selbst",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741458/basler-zeitung-schreibt-medienmitteilung-fuer-buergerliche-gleich-selbst.htm"
+      },
+      {
+        "erfolgsindex": 1.4091334315,
+        "kennzahl_comments": 0.6590909091,
+        "kennzahl_pageviews": 0.4546565632,
+        "kennzahl_readtime": 0.075326079,
+        "kennzahl_shares": 0.2200598802,
+        "title": "Rechnen mit Ueli",
+        "url": "http://www.tageswoche.ch/de/2017_4/schweiz/740733/rechnen-mit-ueli.htm"
+      },
+      {
+        "erfolgsindex": 1.3462233392,
+        "kennzahl_comments": 0.9772727273,
+        "kennzahl_pageviews": 0.1544854559,
+        "kennzahl_readtime": 0.1291358148,
+        "kennzahl_shares": 0.0853293413,
+        "title": "Orwells \u00ab1984\u00bb feiert Comeback in Trumps 2017",
+        "url": "http://www.tageswoche.ch/de/2017_5/international/741626/orwells-1984-feiert-comeback-in-trumps-2017.htm"
+      },
+      {
+        "erfolgsindex": 1.1408916183,
+        "kennzahl_comments": 0.5909090909,
+        "kennzahl_pageviews": 0.3754583231,
+        "kennzahl_readtime": 0.1116499527,
+        "kennzahl_shares": 0.0628742515,
+        "title": "Feinstaub-Grenzwerte in Basel \u00fcberschritten",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741282/feinstaub-grenzwerte-in-basel-ueberschritten.htm"
+      },
+      {
+        "erfolgsindex": 1.1222310984,
+        "kennzahl_comments": 0.3409090909,
+        "kennzahl_pageviews": 0.2978244928,
+        "kennzahl_readtime": 0.1062520057,
+        "kennzahl_shares": 0.377245509,
+        "title": "Ein Spruch unter Kollegen als Symptom unserer Zeit",
+        "url": "http://www.tageswoche.ch/de/2017_5/leben/741366/ein-spruch-unter-kollegen-als-symptom-unserer-zeit.htm"
+      },
+      {
+        "erfolgsindex": 1.0378976764,
+        "kennzahl_comments": 0.6136363636,
+        "kennzahl_pageviews": 0.1840136886,
+        "kennzahl_readtime": 0.2222835523,
+        "kennzahl_shares": 0.0179640719,
+        "title": "Trump treibt Fl\u00fcchtlinge in eine t\u00f6dliche Falle",
+        "url": "http://www.tageswoche.ch/de/2017_5/international/741437/trump-treibt-fluechtlinge-in-eine-toedliche-falle.htm"
+      },
+      {
+        "erfolgsindex": 1.0349564612,
+        "kennzahl_comments": 0.3863636364,
+        "kennzahl_pageviews": 0.4468345148,
+        "kennzahl_readtime": 0.1478660945,
+        "kennzahl_shares": 0.0538922156,
+        "title": "Die 7 wichtigsten Fragen und Antworten zur Spitalk\u00fcchen-Revolution",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741348/die-7-wichtigsten-fragen-und-antworten-zur-spitalkuechen-revolution.htm"
+      },
+      {
+        "erfolgsindex": 1.0277175486,
+        "kennzahl_comments": 0.25,
+        "kennzahl_pageviews": 0.388364703,
+        "kennzahl_readtime": 0.1468378756,
+        "kennzahl_shares": 0.2425149701,
+        "title": "G\u00f6l\u00e4, Trump und Meryl Streep",
+        "url": "http://www.tageswoche.ch/de/2017_5/schweiz/741271/goelae-trump-und-meryl-streep.htm"
+      },
+      {
+        "erfolgsindex": 1.0134606141,
+        "kennzahl_comments": 0.5454545455,
+        "kennzahl_pageviews": 0.2946956734,
+        "kennzahl_readtime": 0.1194181796,
+        "kennzahl_shares": 0.0538922156,
+        "title": "Basel Tattoo wehrt sich kurz vor der Abstimmung gegen Kasernen-Umbau",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741523/basel-tattoo-wehrt-sich-kurz-vor-der-abstimmung-gegen-kasernen-umbau.htm"
+      },
+      {
+        "erfolgsindex": 0.8759430069,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.5070642875,
+        "kennzahl_readtime": 0.2206751266,
+        "kennzahl_shares": 0.1482035928,
+        "title": "Der Griff nach dem zweiten Stern und etliche offene Fragen",
+        "url": "http://www.tageswoche.ch/de/2017_5/sport/741514/der-griff-nach-dem-zweiten-stern-und-etliche-offene-fragen.htm"
+      },
+      {
+        "erfolgsindex": 0.8492230624,
+        "kennzahl_comments": 0.1590909091,
+        "kennzahl_pageviews": 0.5796137864,
+        "kennzahl_readtime": 0.1105183669,
+        "kennzahl_shares": 0.0,
+        "title": "Enth\u00fcllung zum BaZ-Skandal schl\u00e4gt Wellen",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741611/enthuellung-zum-baz-skandal-schlaegt-wellen.htm"
+      },
+      {
+        "erfolgsindex": 0.8408623555,
+        "kennzahl_comments": 0.0227272727,
+        "kennzahl_pageviews": 0.3025177218,
+        "kennzahl_readtime": 0.2371742472,
+        "kennzahl_shares": 0.2784431138,
+        "title": "\u00abIch bin ein gl\u00fccklicher Mann\u00bb",
+        "url": "http://www.tageswoche.ch/de/2017_5/sport/741698/ich-bin-ein-gluecklicher-mann.htm"
+      },
+      {
+        "erfolgsindex": 0.8004635801,
+        "kennzahl_comments": 0.0681818182,
+        "kennzahl_pageviews": 0.4965045221,
+        "kennzahl_readtime": 0.1549389165,
+        "kennzahl_shares": 0.0808383234,
+        "title": "Das Ende des Tennis-Gottes",
+        "url": "http://www.tageswoche.ch/de/2017_5/sport/741255/das-ende-des-tennis-gottes.htm"
+      },
+      {
+        "erfolgsindex": 0.7696771165,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.5461745295,
+        "kennzahl_readtime": 0.1965564792,
+        "kennzahl_shares": 0.0269461078,
+        "title": "Baselbieter Abr\u00e4umer-Gugge, \u00abTrumpeltier\u00bb und Abgesang auf Morin: So ist das Charivari",
+        "url": "http://www.tageswoche.ch/de/2017_5/basel/741741/baselbieter-abraeumer-gugge-trumpeltier-und-abgesang-auf-morin-so-ist-das-charivari.htm"
+      }
+    ],
+    "week": "KW 5"
+  },
+  {
+    "facebook_interaktionen": 2280,
+    "flop": [
+      {
+        "erfolgsindex": 0.0305620486,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0023466145,
+        "kennzahl_readtime": 0.0282154341,
+        "kennzahl_shares": 0.0,
         "title": "Wie sehen Sie das, Herr K\u00fcnzli?",
         "url": "http://www.tageswoche.ch/de/2017_4/basel/740966/wie-sehen-sie-das-herr-kuenzli.htm"
       },
       {
-        "Seitenaufrufe": 12,
-        "article_id": 740959.0,
+        "erfolgsindex": 0.1055605588,
+        "kennzahl_comments": 0.0227272727,
+        "kennzahl_pageviews": 0.0033243706,
+        "kennzahl_readtime": 0.0795089155,
+        "kennzahl_shares": 0.0,
         "title": "Diese Steuerreform ist ein \u00c4rgernis",
         "url": "http://www.tageswoche.ch/de/2017_4/basel/740959/diese-steuerreform-ist-ein-aergernis.htm"
       },
       {
-        "Seitenaufrufe": 186,
-        "article_id": 741194.0,
-        "title": "Roger Federers Gl\u00fccksmomente \u2013 die Bilder aus Melbourne",
-        "url": "http://www.tageswoche.ch/de/2017_4/sport/741194/roger-federers-gluecksmomente-die-bilder-aus-melbourne.htm"
-      },
-      {
-        "Seitenaufrufe": 210,
-        "article_id": 740358.0,
+        "erfolgsindex": 0.1601573773,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0441945735,
+        "kennzahl_readtime": 0.0575795703,
+        "kennzahl_shares": 0.0583832335,
         "title": "Was tickt denn da?",
         "url": "http://www.tageswoche.ch/de/2017_3/kultur/740358/was-tickt-denn-da.htm"
       },
       {
-        "Seitenaufrufe": 213,
-        "article_id": 740725.0,
+        "erfolgsindex": 0.1749325666,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0418479589,
+        "kennzahl_readtime": 0.1330846076,
+        "kennzahl_shares": 0.0,
         "title": "Streikende Fessenheimer, rasende E-Bikes & ungeliebte Guggen",
         "url": "http://www.tageswoche.ch/de/2017_4/basel/740725/streikende-fessenheimer-rasende-e-bikes-ungeliebte-guggen.htm"
+      },
+      {
+        "erfolgsindex": 0.1877561689,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0500611098,
+        "kennzahl_readtime": 0.0838028436,
+        "kennzahl_shares": 0.0538922156,
+        "title": "Junge aufgepasst! Ab heute kann man sich am JKF anmelden",
+        "url": "http://www.tageswoche.ch/de/2017_4/kultur/740745/junge-aufgepasst-ab-heute-kann-man-sich-am-jkf-anmelden.htm"
+      },
+      {
+        "erfolgsindex": 0.2068904009,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0858469812,
+        "kennzahl_readtime": 0.1210434198,
+        "kennzahl_shares": 0.0,
+        "title": "Die Feuerwehr erh\u00e4lt zu viele Fehlalarme, die Polizei zu wenige & beim FCB schrillt der Transfer-Alarm",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740819/die-feuerwehr-erhaelt-zu-viele-fehlalarme-die-polizei-zu-wenige-beim-fcb-schrillt-der-transfer-alarm.htm"
+      },
+      {
+        "erfolgsindex": 0.2165275852,
+        "kennzahl_comments": 0.0227272727,
+        "kennzahl_pageviews": 0.1038376925,
+        "kennzahl_readtime": 0.0719985481,
+        "kennzahl_shares": 0.0179640719,
+        "title": "Roger Federers Gl\u00fccksmomente \u2013 die Bilder aus Melbourne",
+        "url": "http://www.tageswoche.ch/de/2017_4/sport/741194/roger-federers-gluecksmomente-die-bilder-aus-melbourne.htm"
+      },
+      {
+        "erfolgsindex": 0.2298490261,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1607430946,
+        "kennzahl_readtime": 0.0646149135,
+        "kennzahl_shares": 0.004491018,
+        "title": "Federer vs. Wawrinka \u2013 St\u00e4rken, Psyche und Form im Vergleich",
+        "url": "http://www.tageswoche.ch/de/2017_4/sport/740859/federer-vs-wawrinka-staerken-psyche-und-form-im-vergleich.htm"
+      },
+      {
+        "erfolgsindex": 0.2315044084,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0594475678,
+        "kennzahl_readtime": 0.1720568406,
+        "kennzahl_shares": 0.0,
+        "title": "Ein dummer Schwarm, ein Generalcheck & ein rotblauer Goldesel",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740650/ein-dummer-schwarm-ein-generalcheck-ein-rotblauer-goldesel.htm"
+      },
+      {
+        "erfolgsindex": 0.2363306633,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0617941824,
+        "kennzahl_readtime": 0.161063427,
+        "kennzahl_shares": 0.0134730539,
+        "title": "Der andere Zauber des Fussballs",
+        "url": "http://www.tageswoche.ch/de/2017_4/sport/741028/der-andere-zauber-des-fussballs.htm"
+      },
+      {
+        "erfolgsindex": 0.2385411123,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0655096553,
+        "kennzahl_readtime": 0.1371033133,
+        "kennzahl_shares": 0.0359281437,
+        "title": "Diese Schlaffl\u00fcsterer helfen beim Eind\u00f6sen",
+        "url": "http://www.tageswoche.ch/de/2017_2/leben/739808/diese-schlaffluesterer-helfen-beim-eindoesen.htm"
+      },
+      {
+        "erfolgsindex": 0.2401471417,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1226106087,
+        "kennzahl_readtime": 0.1175365331,
+        "kennzahl_shares": 0.0,
+        "title": "Kampf, Kohle und heruntergelassene Hosen",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/741016/kampf-kohle-und-heruntergelassene-hosen.htm"
+      },
+      {
+        "erfolgsindex": 0.2401517766,
+        "kennzahl_comments": 0.0227272727,
+        "kennzahl_pageviews": 0.1069665119,
+        "kennzahl_readtime": 0.1104579921,
+        "kennzahl_shares": 0.0,
+        "title": "Million f\u00fcr Frankreich, Milliarden f\u00fcr die Region und IV-Rente f\u00fcr einen Rebell",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740921/million-fuer-frankreich-milliarden-fuer-die-region-und-iv-rente-fuer-einen-rebell.htm"
+      },
+      {
+        "erfolgsindex": 0.2684340466,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0762649719,
+        "kennzahl_readtime": 0.1876780567,
+        "kennzahl_shares": 0.004491018,
+        "title": "Wer, wie, was? Antworten zum Megadeal von Actelion ",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/741015/wer-wie-was-antworten-zum-megadeal-von-actelion.htm"
+      },
+      {
+        "erfolgsindex": 0.2710858465,
+        "kennzahl_comments": 0.0681818182,
+        "kennzahl_pageviews": 0.1005133219,
+        "kennzahl_readtime": 0.0395164549,
+        "kennzahl_shares": 0.0628742515,
+        "title": "Einb\u00fcrgerungs-Initiative der SVP erleidet Schlappe ",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740762/einbuergerungs-initiative-der-svp-erleidet-schlappe.htm"
       }
     ],
     "id": 4,
-    "multisession": 2640,
     "nutzer": 90793,
-    "pageviews_news": 77117,
-    "pageviews_newswire": 25277,
-    "pageviews_total": 102394,
+    "pageviews_news": 83713,
+    "pageviews_newswire": 26505,
+    "pageviews_total": 110218,
     "published_articles": 57,
     "top": [
       {
-        "Seitenaufrufe": 7232,
-        "article_id": 740763.0,
-        "title": "Was stimmt mit dieser Strasse nicht?",
-        "url": "http://www.tageswoche.ch/de/2017_4/basel/740763/was-stimmt-mit-dieser-strasse-nicht.htm"
-      },
-      {
-        "Seitenaufrufe": 6949,
-        "article_id": 740339.0,
+        "erfolgsindex": 4.8624818206,
+        "kennzahl_comments": 0.6590909091,
+        "kennzahl_pageviews": 1.424003911,
+        "kennzahl_readtime": 0.1656145454,
+        "kennzahl_shares": 2.6137724551,
         "title": "Diese Firmen profitieren von der Steuerreform \u2013 und diese zahlen mehr",
         "url": "http://www.tageswoche.ch/de/2017_3/basel/740339/diese-firmen-profitieren-von-der-steuerreform-und-diese-zahlen-mehr.htm"
       },
       {
-        "Seitenaufrufe": 3647,
-        "article_id": 740481.0,
-        "title": "So schl\u00e4gt sich die obdachlose Lilian durch den Winter",
-        "url": "http://www.tageswoche.ch/de/2017_3/basel/740481/so-schlaegt-sich-die-obdachlose-lilian-durch-den-winter.htm"
+        "erfolgsindex": 2.6744884823,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.5692495722,
+        "kennzahl_readtime": 0.1875742394,
+        "kennzahl_shares": 1.9176646707,
+        "title": "Rebell auf R\u00e4dern",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740766/rebell-auf-raedern.htm"
       },
       {
-        "Seitenaufrufe": 3434,
-        "article_id": 741051.0,
+        "erfolgsindex": 2.4963581369,
+        "kennzahl_comments": 0.7954545455,
+        "kennzahl_pageviews": 1.4374969445,
+        "kennzahl_readtime": 0.0927479643,
+        "kennzahl_shares": 0.1706586826,
+        "title": "Was stimmt mit dieser Strasse nicht?",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740763/was-stimmt-mit-dieser-strasse-nicht.htm"
+      },
+      {
+        "erfolgsindex": 1.9553788623,
+        "kennzahl_comments": 0.9772727273,
+        "kennzahl_pageviews": 0.6210706429,
+        "kennzahl_readtime": 0.249251061,
+        "kennzahl_shares": 0.1077844311,
+        "title": "Trump und wir: Wie wird das werden?",
+        "url": "http://www.tageswoche.ch/de/2017_3/international/740483/trump-und-wir-wie-wird-das-werden.htm"
+      },
+      {
+        "erfolgsindex": 1.7588612939,
+        "kennzahl_comments": 0.5454545455,
+        "kennzahl_pageviews": 0.7610853092,
+        "kennzahl_readtime": 0.1289681458,
+        "kennzahl_shares": 0.3233532934,
         "title": "Wenn die BaZ die \u00abFake-Fakten\u00bb-Keule schwingt",
         "url": "http://www.tageswoche.ch/de/2017_4/basel/741051/wenn-die-baz-die-fake-fakten-keule-schwingt.htm"
       },
       {
-        "Seitenaufrufe": 3257,
-        "article_id": 740407.0,
+        "erfolgsindex": 1.7066648762,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.4137863603,
+        "kennzahl_readtime": 0.1656330069,
+        "kennzahl_shares": 1.127245509,
+        "title": "Bei Eisesk\u00e4lte mit dem Velokurier unterwegs",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740930/bei-eiseskaelte-mit-dem-velokurier-unterwegs.htm"
+      },
+      {
+        "erfolgsindex": 1.4695727953,
+        "kennzahl_comments": 0.5909090909,
+        "kennzahl_pageviews": 0.4327548277,
+        "kennzahl_readtime": 0.158483727,
+        "kennzahl_shares": 0.2874251497,
+        "title": "\u00abR\u00e4ubergeschichten bin ich mir gew\u00f6hnt\u00bb",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/741040/raeubergeschichten-bin-ich-mir-gewoehnt.htm"
+      },
+      {
+        "erfolgsindex": 1.4084952141,
+        "kennzahl_comments": 0.4318181818,
+        "kennzahl_pageviews": 0.5342459056,
+        "kennzahl_readtime": 0.0876407074,
+        "kennzahl_shares": 0.3547904192,
+        "title": "\u00abBasler Zeitung\u00bb bauscht alte Meldungen zum neuen Skandal auf",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740976/basler-zeitung-bauscht-alte-meldungen-zum-neuen-skandal-auf.htm"
+      },
+      {
+        "erfolgsindex": 1.3679572231,
+        "kennzahl_comments": 0.1363636364,
+        "kennzahl_pageviews": 0.7258860914,
+        "kennzahl_readtime": 0.1554080941,
+        "kennzahl_shares": 0.3502994012,
+        "title": "So schl\u00e4gt sich die obdachlose Lilian durch den Winter",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740481/so-schlaegt-sich-die-obdachlose-lilian-durch-den-winter.htm"
+      },
+      {
+        "erfolgsindex": 1.0794581218,
+        "kennzahl_comments": 0.2272727273,
+        "kennzahl_pageviews": 0.2657540944,
+        "kennzahl_readtime": 0.1687666295,
+        "kennzahl_shares": 0.4176646707,
+        "title": "Jetzt kanns losgehen auf dem Felix-Platter-Areal, aber was passiert genau? Die wichtigsten Antworten",
+        "url": "http://www.tageswoche.ch/de/2017_4/basel/740765/jetzt-kanns-losgehen-auf-dem-felix-platter-areal-aber-was-passiert-genau-die-wichtigsten-antworten.htm"
+      },
+      {
+        "erfolgsindex": 1.0336320907,
+        "kennzahl_comments": 0.1136363636,
+        "kennzahl_pageviews": 0.6245905647,
+        "kennzahl_readtime": 0.1337285157,
+        "kennzahl_shares": 0.1616766467,
+        "title": "Wechsel zu Aston Villa: Bjarnason zieht es auf die Insel ",
+        "url": "http://www.tageswoche.ch/de/2017_4/sport/740799/wechsel-zu-aston-villa-bjarnason-zieht-es-auf-die-insel.htm"
+      },
+      {
+        "erfolgsindex": 1.0087612686,
+        "kennzahl_comments": 0.1363636364,
+        "kennzahl_pageviews": 0.4822292838,
+        "kennzahl_readtime": 0.1431623604,
+        "kennzahl_shares": 0.247005988,
+        "title": "Pino Bertelli: \u00abDie Stadt erweitert sich \u2013 und hinterl\u00e4sst eine W\u00fcste\u00bb",
+        "url": "http://www.tageswoche.ch/de/2017_3/kultur/740404/pino-bertelli-die-stadt-erweitert-sich-und-hinterlaesst-eine-wueste.htm"
+      },
+      {
+        "erfolgsindex": 0.8746801067,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.6427768272,
+        "kennzahl_readtime": 0.173520046,
+        "kennzahl_shares": 0.0583832335,
         "title": "Nie mehr kalte H\u00e4nde \u2013 dank der Schneeballzange",
         "url": "http://www.tageswoche.ch/de/2017_3/leben/740407/nie-mehr-kalte-haende-dank-der-schneeballzange.htm"
+      },
+      {
+        "erfolgsindex": 0.818635278,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.3003666585,
+        "kennzahl_readtime": 0.0736578411,
+        "kennzahl_shares": 0.4446107784,
+        "title": "Was z\u00e4hlt, ist was passiert \u2013\u00a0Lyrik im Netzwerk",
+        "url": "http://www.tageswoche.ch/de/2017_3/kultur/740418/was-zaehlt-ist-was-passiert-lyrik-im-netzwerk.htm"
+      },
+      {
+        "erfolgsindex": 0.7419726725,
+        "kennzahl_comments": 0.25,
+        "kennzahl_pageviews": 0.3789782449,
+        "kennzahl_readtime": 0.054611194,
+        "kennzahl_shares": 0.0583832335,
+        "title": "Diese K\u00e4seh\u00e4ndler in der Region empfehlen unsere Leserinnen und Leser",
+        "url": "http://www.tageswoche.ch/de/2017_4/leben/740929/diese-kaesehaendler-in-der-region-empfehlen-unsere-leserinnen-und-leser.htm"
       }
     ],
     "week": "KW 4"
   },
   {
+    "facebook_interaktionen": 3034,
     "flop": [
       {
-        "Seitenaufrufe": 6,
-        "article_id": 740382.0,
+        "erfolgsindex": 0.0373415273,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0013688585,
+        "kennzahl_readtime": 0.0359726688,
+        "kennzahl_shares": 0.0,
         "title": "Der Erfolg der Museumsnacht",
         "url": "http://www.tageswoche.ch/de/2017_3/basel/740382/der-erfolg-der-museumsnacht.htm"
       },
       {
-        "Seitenaufrufe": 9,
-        "article_id": 740389.0,
+        "erfolgsindex": 0.0459380569,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0019555121,
+        "kennzahl_readtime": 0.0439825448,
+        "kennzahl_shares": 0.0,
         "title": "Wie sehen Sie das, Herr K\u00fcnzli?",
         "url": "http://www.tageswoche.ch/de/2017_3/basel/740389/wie-sehen-sie-das-herr-kuenzli.htm"
       },
       {
-        "Seitenaufrufe": 145,
-        "article_id": 740381.0,
+        "erfolgsindex": 0.1401834063,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0758738695,
+        "kennzahl_readtime": 0.0553275009,
+        "kennzahl_shares": 0.0089820359,
+        "title": "Dieser Ur-Bayer ist der Hoffnungstr\u00e4ger des SC Freiburg gegen die Bayern",
+        "url": "http://www.tageswoche.ch/de/2017_3/sport/740352/dieser-ur-bayer-ist-der-hoffnungstraeger-des-sc-freiburg-gegen-die-bayern.htm"
+      },
+      {
+        "erfolgsindex": 0.1537137484,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0778293816,
+        "kennzahl_readtime": 0.0713933489,
+        "kennzahl_shares": 0.004491018,
+        "title": "Nichts verpassen w\u00e4hrend der Museumsnacht \u2013 #mnbasel sei Dank",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740441/nichts-verpassen-waehrend-der-museumsnacht-mnbasel-sei-dank.htm"
+      },
+      {
+        "erfolgsindex": 0.1546510932,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0602297727,
+        "kennzahl_readtime": 0.0944213205,
+        "kennzahl_shares": 0.0,
+        "title": "Ein Baselbieter \u00abGoogler\u00bb, 100 Millionen f\u00fcr St\u00fccki-Areal und nette Basler ",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740228/ein-baselbieter-googler-100-millionen-fuer-stuecki-areal-und-nette-basler.htm"
+      },
+      {
+        "erfolgsindex": 0.1725281819,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0299193351,
+        "kennzahl_readtime": 0.1426088468,
+        "kennzahl_shares": 0.0,
         "title": "Basel bewirbt sich um Badminton-WM 2019",
         "url": "http://www.tageswoche.ch/de/2017_3/sport/740381/basel-bewirbt-sich-um-badminton-wm-2019.htm"
       },
       {
-        "Seitenaufrufe": 179,
-        "article_id": 739851.0,
-        "title": "Muss bald sein Gehirn durchleuchten lassen, wer Banker werden will?",
-        "url": "http://www.tageswoche.ch/de/2017_2/leben/739851/muss-bald-sein-gehirn-durchleuchten-lassen-wer-banker-werden-will.htm"
+        "erfolgsindex": 0.1883971882,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.090344659,
+        "kennzahl_readtime": 0.0980525292,
+        "kennzahl_shares": 0.0,
+        "title": "Deutschenhass, verlorene Polen, Gestalten der Nacht",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740437/deutschenhass-verlorene-polen-gestalten-der-nacht.htm"
       },
       {
-        "Seitenaufrufe": 189,
-        "article_id": 740253.0,
-        "title": "Basel\u2013Moskau: Eine Reisegruppe im Land der Zukunft",
-        "url": "http://www.tageswoche.ch/de/2017_3/leben/740253/basel-moskau-eine-reisegruppe-im-land-der-zukunft.htm"
+        "erfolgsindex": 0.1947480794,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1142019066,
+        "kennzahl_readtime": 0.0760551548,
+        "kennzahl_shares": 0.004491018,
+        "title": "W\u00e4hlen Sie das Tor des Jahres",
+        "url": "http://www.tageswoche.ch/de/2017_3/sport/740184/waehlen-sie-das-tor-des-jahres.htm"
+      },
+      {
+        "erfolgsindex": 0.2046464783,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0747005622,
+        "kennzahl_readtime": 0.1299459161,
+        "kennzahl_shares": 0.0,
+        "title": "B\u00f6se Chinesen, b\u00f6ser Wessels und ein bisschen Kessler",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740333/boese-chinesen-boeser-wessels-und-ein-bisschen-kessler.htm"
+      },
+      {
+        "erfolgsindex": 0.216947141,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0629674896,
+        "kennzahl_readtime": 0.1539796513,
+        "kennzahl_shares": 0.0,
+        "title": "Endzeitstimmung in der Rebgasse und schlaflose Werber: So f\u00fchlt sich die Kleinbasler Nacht an",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740341/endzeitstimmung-in-der-rebgasse-und-schlaflose-werber-so-fuehlt-sich-die-kleinbasler-nacht-an.htm"
       }
     ],
     "id": 3,
-    "multisession": 2581,
-    "nutzer": 93399,
-    "pageviews_news": 84454,
-    "pageviews_newswire": 16253,
-    "pageviews_total": 100707,
+    "nutzer": 93401,
+    "pageviews_news": 91479,
+    "pageviews_newswire": 17245,
+    "pageviews_total": 108724,
     "published_articles": 53,
     "top": [
       {
-        "Seitenaufrufe": 10330,
-        "article_id": 740194.0,
-        "title": "Deutsche \u00c4rzte meiden die Schweiz \u2013 nur Basel hat ein Herz f\u00fcr sie",
-        "url": "http://www.tageswoche.ch/de/2017_3/basel/740194/deutsche-aerzte-meiden-die-schweiz-nur-basel-hat-ein-herz-fuer-sie.htm"
-      },
-      {
-        "Seitenaufrufe": 7557,
-        "article_id": 739630.0,
-        "title": "Ein Bild, das die Welt um ihren Schlaf brachte",
-        "url": "http://www.tageswoche.ch/de/2017_1/kultur/739630/ein-bild-das-die-welt-um-ihren-schlaf-brachte.htm"
-      },
-      {
-        "Seitenaufrufe": 6201,
-        "article_id": 740240.0,
+        "erfolgsindex": 4.238877644,
+        "kennzahl_comments": 0.4772727273,
+        "kennzahl_pageviews": 1.4732828159,
+        "kennzahl_readtime": 0.141615514,
+        "kennzahl_shares": 2.1467065868,
         "title": "Sch\u00e4ndlich verschwendetes Potenzial",
         "url": "http://www.tageswoche.ch/de/2017_3/schweiz/740240/schaendlich-verschwendetes-potenzial.htm"
       },
       {
-        "Seitenaufrufe": 5371,
-        "article_id": 740440.0,
+        "erfolgsindex": 2.9801440997,
+        "kennzahl_comments": 0.5681818182,
+        "kennzahl_pageviews": 2.0624786116,
+        "kennzahl_readtime": 0.1339148077,
+        "kennzahl_shares": 0.2155688623,
+        "title": "Deutsche \u00c4rzte meiden die Schweiz \u2013 nur Basel hat ein Herz f\u00fcr sie",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740194/deutsche-aerzte-meiden-die-schweiz-nur-basel-hat-ein-herz-fuer-sie.htm"
+      },
+      {
+        "erfolgsindex": 2.4592924011,
+        "kennzahl_comments": 0.5,
+        "kennzahl_pageviews": 0.5135174774,
+        "kennzahl_readtime": 0.2287090555,
+        "kennzahl_shares": 1.2170658683,
+        "title": "Bloss keine Verpackung \u2013 Abfallvermeiderin Carole Schante will \u00abZero Waste\u00bb",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739562/bloss-keine-verpackung-abfallvermeiderin-carole-schante-will-zero-waste.htm"
+      },
+      {
+        "erfolgsindex": 2.23415521,
+        "kennzahl_comments": 0.0454545455,
+        "kennzahl_pageviews": 0.1613297482,
+        "kennzahl_readtime": 0.1276703175,
+        "kennzahl_shares": 1.8997005988,
+        "title": "Fl\u00fcchtlinge frieren im Lager, die Familie wartet in Deutschland",
+        "url": "http://www.tageswoche.ch/de/2017_3/international/740153/fluechtlinge-frieren-im-lager-die-familie-wartet-in-deutschland.htm"
+      },
+      {
+        "erfolgsindex": 2.2161923715,
+        "kennzahl_comments": 0.2954545455,
+        "kennzahl_pageviews": 0.9855780983,
+        "kennzahl_readtime": 0.1986327816,
+        "kennzahl_shares": 0.7365269461,
+        "title": "Basler Regierung erhielt Einreisesperre in China",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740307/basler-regierung-erhielt-einreisesperre-in-china.htm"
+      },
+      {
+        "erfolgsindex": 2.1436456539,
+        "kennzahl_comments": 0.0227272727,
+        "kennzahl_pageviews": 0.4057687607,
+        "kennzahl_readtime": 0.0938921354,
+        "kennzahl_shares": 1.621257485,
+        "title": "Diagnose Leuk\u00e4mie \u2013 ohne Solidarit\u00e4t kaum \u00dcberlebenschancen",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740279/diagnose-leukaemie-ohne-solidaritaet-kaum-ueberlebenschancen.htm"
+      },
+      {
+        "erfolgsindex": 2.0243768895,
+        "kennzahl_comments": 0.1363636364,
+        "kennzahl_pageviews": 1.0469811782,
+        "kennzahl_readtime": 0.2212715959,
+        "kennzahl_shares": 0.619760479,
+        "title": "\u00abMonica Gschwind hat unsere Vertrauensbasis verletzt\u00bb",
+        "url": "http://www.tageswoche.ch/de/2016_26/basel/740200/monica-gschwind-hat-unsere-vertrauensbasis-verletzt.htm"
+      },
+      {
+        "erfolgsindex": 1.8710910542,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 1.5579564899,
+        "kennzahl_readtime": 0.2861884565,
+        "kennzahl_shares": 0.0269461078,
+        "title": "Ein Bild, das die Welt um ihren Schlaf brachte",
+        "url": "http://www.tageswoche.ch/de/2017_1/kultur/739630/ein-bild-das-die-welt-um-ihren-schlaf-brachte.htm"
+      },
+      {
+        "erfolgsindex": 1.8444837301,
+        "kennzahl_comments": 0.3863636364,
+        "kennzahl_pageviews": 1.1031043755,
+        "kennzahl_readtime": 0.2068121254,
+        "kennzahl_shares": 0.1482035928,
         "title": "\u00abIch musste hier einiges aushalten\u00bb",
         "url": "http://www.tageswoche.ch/de/2017_3/basel/740440/ich-musste-hier-einiges-aushalten.htm"
       },
       {
-        "Seitenaufrufe": 4966,
-        "article_id": 740307.0,
-        "title": "Basler Regierung erhielt Einreisesperre in China",
-        "url": "http://www.tageswoche.ch/de/2017_3/basel/740307/basler-regierung-erhielt-einreisesperre-in-china.htm"
+        "erfolgsindex": 1.6523947485,
+        "kennzahl_comments": 0.5681818182,
+        "kennzahl_pageviews": 0.3234417013,
+        "kennzahl_readtime": 0.1499927859,
+        "kennzahl_shares": 0.6107784431,
+        "title": "Basler L\u00e4den sollen bis in die Nacht offen sein",
+        "url": "http://www.tageswoche.ch/de/2017_3/basel/740182/basler-laeden-sollen-bis-in-die-nacht-offen-sein.htm"
       }
     ],
     "week": "KW 3"
   },
   {
+    "facebook_interaktionen": 2556,
     "flop": [
       {
-        "Seitenaufrufe": 11,
-        "article_id": 739739.0,
+        "erfolgsindex": 0.0572501515,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0023466145,
+        "kennzahl_readtime": 0.054903537,
+        "kennzahl_shares": 0.0,
         "title": "Wie sehen Sie das, Herr K\u00fcnzli?",
         "url": "http://www.tageswoche.ch/de/2017_2/schweiz/739739/wie-sehen-sie-das-herr-kuenzli.htm"
       },
       {
-        "Seitenaufrufe": 17,
-        "article_id": 739526.0,
-        "title": "Vom Natel zum Smartphone: Das GSM hat bald nichts mehr zu melden",
-        "url": "http://www.tageswoche.ch/de/2017_2/leben/739526/vom-natel-zum-smartphone-das-gsm-hat-bald-nichts-mehr-zu-melden.htm"
+        "erfolgsindex": 0.1284630236,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.053972134,
+        "kennzahl_readtime": 0.0744908896,
+        "kennzahl_shares": 0.0,
+        "title": "Kessler muss gehen \u2013 schade!",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739648/kessler-muss-gehen-schade.htm"
       },
       {
-        "Seitenaufrufe": 49,
-        "article_id": 739568.0,
-        "title": "Zehn Schritte zu weniger Abfall \u2013 und wo man sie (bald) anwenden kann",
-        "url": "http://www.tageswoche.ch/de/2017_2/basel/739568/zehn-schritte-zu-weniger-abfall-und-wo-man-sie-bald-anwenden-kann.htm"
+        "erfolgsindex": 0.1575505775,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0504522122,
+        "kennzahl_readtime": 0.1070983653,
+        "kennzahl_shares": 0.0,
+        "title": "Ein Urteil besch\u00e4ftigt die Welt, der Schnee die Region und die Notschlafstelle die Sozialhilfe ",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739592/ein-urteil-beschaeftigt-die-welt-der-schnee-die-region-und-die-notschlafstelle-die-sozialhilfe.htm"
       },
       {
-        "Seitenaufrufe": 59,
-        "article_id": 739735.0,
+        "erfolgsindex": 0.1634958475,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0967978489,
+        "kennzahl_readtime": 0.0622069806,
+        "kennzahl_shares": 0.004491018,
+        "title": "Gehen Sie doch mal in den nahen Osten",
+        "url": "http://www.tageswoche.ch/de/2017_2/leben/739744/gehen-sie-doch-mal-in-den-nahen-osten.htm"
+      },
+      {
+        "erfolgsindex": 0.1692642872,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.086629186,
+        "kennzahl_readtime": 0.0736530652,
+        "kennzahl_shares": 0.0089820359,
+        "title": "Schon wieder er?",
+        "url": "http://www.tageswoche.ch/de/2017_1/sport/739391/schon-wieder-er.htm"
+      },
+      {
+        "erfolgsindex": 0.1945888882,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0809582009,
+        "kennzahl_readtime": 0.0552474538,
+        "kennzahl_shares": 0.0583832335,
+        "title": "Gertrude Stein in der Kaserne: Hundert Arten, wie jemand Leben f\u00fchlen kann",
+        "url": "http://www.tageswoche.ch/de/2017_2/kultur/739632/gertrude-stein-in-der-kaserne-hundert-arten-wie-jemand-leben-fuehlen-kann.htm"
+      },
+      {
+        "erfolgsindex": 0.1977085799,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0146663407,
+        "kennzahl_readtime": 0.1830422391,
+        "kennzahl_shares": 0.0,
         "title": "Wie wird das Tennisjahr 2017? Eine Auslegeordnung",
         "url": "http://www.tageswoche.ch/de/2017_2/sport/739735/wie-wird-das-tennisjahr-2017-eine-auslegeordnung.htm"
       },
       {
-        "Seitenaufrufe": 154,
-        "article_id": 739648.0,
-        "title": "Kessler muss gehen \u2013 schade!",
-        "url": "http://www.tageswoche.ch/de/2017_2/basel/739648/kessler-muss-gehen-schade.htm"
+        "erfolgsindex": 0.2013481445,
+        "kennzahl_comments": 0.0454545455,
+        "kennzahl_pageviews": 0.0850647763,
+        "kennzahl_readtime": 0.0663378047,
+        "kennzahl_shares": 0.004491018,
+        "title": "General Sutters Leben mit Post-Porno und Fl\u00fcchtlings-Trag\u00f6die aufgepeppt",
+        "url": "http://www.tageswoche.ch/de/2017_2/kultur/739845/general-sutters-leben-mit-post-porno-und-fluechtlings-tragoedie-aufgepeppt.htm"
+      },
+      {
+        "erfolgsindex": 0.2019945104,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0690295771,
+        "kennzahl_readtime": 0.1329649333,
+        "kennzahl_shares": 0.0,
+        "title": "Lex Weber, neues Ungemach bei der Theatersanierung und BL-Initiativen auf der langen Bank",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739414/lex-weber-neues-ungemach-bei-der-theatersanierung-und-bl-initiativen-auf-der-langen-bank.htm"
+      },
+      {
+        "erfolgsindex": 0.2066342645,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0498655585,
+        "kennzahl_readtime": 0.156768706,
+        "kennzahl_shares": 0.0,
+        "title": "Applaus und Tadel f\u00fcr Sparvorschl\u00e4ge zur Uni und Hoffnung auf Anschluss am EuroAirport",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739484/applaus-und-tadel-fuer-sparvorschlaege-zur-uni-und-hoffnung-auf-anschluss-am-euroairport.htm"
       }
     ],
     "id": 2,
-    "multisession": 2726,
     "nutzer": 78513,
-    "pageviews_news": 73936,
-    "pageviews_newswire": 16377,
-    "pageviews_total": 90313,
+    "pageviews_news": 86146,
+    "pageviews_newswire": 16992,
+    "pageviews_total": 103138,
     "published_articles": 53,
     "top": [
       {
-        "Seitenaufrufe": 5589,
-        "article_id": 739636.0,
+        "erfolgsindex": 5.0229779313,
+        "kennzahl_comments": 0.5909090909,
+        "kennzahl_pageviews": 0.5209484234,
+        "kennzahl_readtime": 0.2060305966,
+        "kennzahl_shares": 3.7050898204,
+        "title": "Warum die Schweizer Steuerreform Entwicklungsl\u00e4ndern schadet",
+        "url": "http://www.tageswoche.ch/de/2017_1/schweiz/739248/warum-die-schweizer-steuerreform-entwicklungslaendern-schadet.htm"
+      },
+      {
+        "erfolgsindex": 2.1923607159,
+        "kennzahl_comments": 0.2272727273,
+        "kennzahl_pageviews": 0.4751894402,
+        "kennzahl_readtime": 0.1381021412,
+        "kennzahl_shares": 1.3517964072,
+        "title": "Zehn Schritte zu weniger Abfall \u2013 und wo man sie (bald) anwenden kann",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739568/zehn-schritte-zu-weniger-abfall-und-wo-man-sie-bald-anwenden-kann.htm"
+      },
+      {
+        "erfolgsindex": 2.01208062,
+        "kennzahl_comments": 0.5,
+        "kennzahl_pageviews": 1.1991200196,
+        "kennzahl_readtime": 0.2006851513,
+        "kennzahl_shares": 0.1122754491,
         "title": "Deshalb muss Thomas Kessler gehen",
         "url": "http://www.tageswoche.ch/de/2017_2/basel/739636/deshalb-muss-thomas-kessler-gehen.htm"
       },
       {
-        "Seitenaufrufe": 5069,
-        "article_id": 739595.0,
-        "title": "Roxxxy sagt nie Nein",
-        "url": "http://www.tageswoche.ch/de/2017_2/leben/739595/roxxxy-sagt-nie-nein.htm"
+        "erfolgsindex": 1.9576000615,
+        "kennzahl_comments": 0.2045454545,
+        "kennzahl_pageviews": 0.7290149108,
+        "kennzahl_readtime": 0.1168540675,
+        "kennzahl_shares": 0.9071856287,
+        "title": "Ein anthroposophischer Neubau f\u00fcrs Gundeli",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739711/ein-anthroposophischer-neubau-fuers-gundeli.htm"
       },
       {
-        "Seitenaufrufe": 4318,
-        "article_id": 739842.0,
+        "erfolgsindex": 1.9086083839,
+        "kennzahl_comments": 0.0227272727,
+        "kennzahl_pageviews": 0.3079931557,
+        "kennzahl_readtime": 0.1721993327,
+        "kennzahl_shares": 1.4056886228,
+        "title": "Modedesignerin Jacqueline Loekito bringt Farbe in die Stadt",
+        "url": "http://www.tageswoche.ch/de/2017_2/kultur/739506/modedesignerin-jacqueline-loekito-bringt-farbe-in-die-stadt.htm"
+      },
+      {
+        "erfolgsindex": 1.6679583511,
+        "kennzahl_comments": 0.5,
+        "kennzahl_pageviews": 0.9288682474,
+        "kennzahl_readtime": 0.077413457,
+        "kennzahl_shares": 0.1616766467,
         "title": "Dramatischer Zuschauerr\u00fcckgang bei Telebasel",
         "url": "http://www.tageswoche.ch/de/2017_2/basel/739842/dramatischer-zuschauerrueckgang-bei-telebasel.htm"
       },
       {
-        "Seitenaufrufe": 4292,
-        "article_id": 739452.0,
-        "title": "Ein neues Gesicht und intensive Trainingsarbeit beim FCB ",
-        "url": "http://www.tageswoche.ch/de/2017_1/sport/739452/ein-neues-gesicht-und-intensive-trainingsarbeit-beim-fcb.htm"
+        "erfolgsindex": 1.6116654646,
+        "kennzahl_comments": 0.9318181818,
+        "kennzahl_pageviews": 0.4206306527,
+        "kennzahl_readtime": 0.1604142349,
+        "kennzahl_shares": 0.0988023952,
+        "title": "Wer Ja stimmt, hilft Eric Weber",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/739393/wer-ja-stimmt-hilft-eric-weber.htm"
       },
       {
-        "Seitenaufrufe": 3326,
-        "article_id": 739832.0,
-        "title": "Platz da, hier kommt der Wild Maa",
-        "url": "http://www.tageswoche.ch/de/2017_2/basel/739832/platz-da-hier-kommt-der-wild-maa.htm"
+        "erfolgsindex": 1.601696998,
+        "kennzahl_comments": 0.1818181818,
+        "kennzahl_pageviews": 1.1398680029,
+        "kennzahl_readtime": 0.2440826695,
+        "kennzahl_shares": 0.0359281437,
+        "title": "Roxxxy sagt nie Nein",
+        "url": "http://www.tageswoche.ch/de/2017_2/leben/739595/roxxxy-sagt-nie-nein.htm"
+      },
+      {
+        "erfolgsindex": 1.5079680345,
+        "kennzahl_comments": 0.5,
+        "kennzahl_pageviews": 0.533659252,
+        "kennzahl_readtime": 0.1105363274,
+        "kennzahl_shares": 0.3637724551,
+        "title": "Stadtentwickler Thomas Kessler tritt zur\u00fcck \u2013 Ackermann nicht involviert",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739605/stadtentwickler-thomas-kessler-tritt-zurueck-ackermann-nicht-involviert.htm"
+      },
+      {
+        "erfolgsindex": 1.4242816364,
+        "kennzahl_comments": 0.3636363636,
+        "kennzahl_pageviews": 0.1662185285,
+        "kennzahl_readtime": 0.1489177622,
+        "kennzahl_shares": 0.745508982,
+        "title": "Steuererh\u00f6hung und Leistungsabbau \u2013 Muttenz warnt vor Steuerreform",
+        "url": "http://www.tageswoche.ch/de/2017_2/basel/739747/steuererhoehung-und-leistungsabbau-muttenz-warnt-vor-steuerreform.htm"
       }
     ],
     "week": "KW 2"
+  },
+  {
+    "facebook_interaktionen": 1403,
+    "flop": [
+      {
+        "erfolgsindex": 0.0532410289,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0015644097,
+        "kennzahl_readtime": 0.0516766192,
+        "kennzahl_shares": 0.0,
+        "title": "Wie sehen Sie das, Herr K\u00fcnzli?",
+        "url": "http://www.tageswoche.ch/de/2017_1/international/739133/wie-sehen-sie-das-herr-kuenzli.htm"
+      },
+      {
+        "erfolgsindex": 0.1012927651,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0432168174,
+        "kennzahl_readtime": 0.0580759476,
+        "kennzahl_shares": 0.0,
+        "title": "Keine Krone, keine Spitze, keine \u00dcberstunden und viel Wissen",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/739207/keine-krone-keine-spitze-keine-ueberstunden-und-viel-wissen.htm"
+      },
+      {
+        "erfolgsindex": 0.1153774566,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.034417013,
+        "kennzahl_readtime": 0.0719784077,
+        "kennzahl_shares": 0.0089820359,
+        "title": "2017 \u00fcberzeugt mit zahlreichen \u00dcberraschungen",
+        "url": "http://www.tageswoche.ch/de/2017_1/sport/739022/2017-ueberzeugt-mit-zahlreichen-ueberraschungen.htm"
+      },
+      {
+        "erfolgsindex": 0.1444037263,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.035394769,
+        "kennzahl_readtime": 0.1090089573,
+        "kennzahl_shares": 0.0,
+        "title": "Die Murg, Goethe und die heilige Idda",
+        "url": "http://www.tageswoche.ch/de/2017_1/leben/739239/die-murg-goethe-und-die-heilige-idda.htm"
+      },
+      {
+        "erfolgsindex": 0.1980274322,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0015644097,
+        "kennzahl_readtime": 0.1964630225,
+        "kennzahl_shares": 0.0,
+        "title": "Gesunde Ern\u00e4hrung besteht nicht aus Superfood",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/739132/gesunde-ernaehrung-besteht-nicht-aus-superfood.htm"
+      },
+      {
+        "erfolgsindex": 0.2020928839,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0484967001,
+        "kennzahl_readtime": 0.1446141479,
+        "kennzahl_shares": 0.0089820359,
+        "title": "Ein aserischer Friedensschluss beschert Safarli den Sieg",
+        "url": "http://www.tageswoche.ch/de/2017_1/sport/739396/ein-aserischer-friedensschluss-beschert-safarli-den-sieg.htm"
+      },
+      {
+        "erfolgsindex": 0.2072605306,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.0351992178,
+        "kennzahl_readtime": 0.1675702949,
+        "kennzahl_shares": 0.004491018,
+        "title": "Das Basler Festival spitzt sich zu",
+        "url": "http://www.tageswoche.ch/de/2017_1/sport/739270/das-basler-festival-spitzt-sich-zu.htm"
+      },
+      {
+        "erfolgsindex": 0.2391791,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.086629186,
+        "kennzahl_readtime": 0.152549914,
+        "kennzahl_shares": 0.0,
+        "title": "Steuerreform, Festspiele im Dunkeln und freie Zimmer f\u00fcr Fl\u00fcchtlinge",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/738941/steuerreform-festspiele-im-dunkeln-und-freie-zimmer-fuer-fluechtlinge.htm"
+      },
+      {
+        "erfolgsindex": 0.2632145118,
+        "kennzahl_comments": 0.0,
+        "kennzahl_pageviews": 0.1190906869,
+        "kennzahl_readtime": 0.130650771,
+        "kennzahl_shares": 0.0134730539,
+        "title": "Warum wir heute arbeiten, was wir deshalb im Fernsehen verpassen und wer sich trotzdem auf den Tag freut",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/738874/warum-wir-heute-arbeiten-was-wir-deshalb-im-fernsehen-verpassen-und-wer-sich-trotzdem-auf-den-tag-freut.htm"
+      },
+      {
+        "erfolgsindex": 0.2700929217,
+        "kennzahl_comments": 0.0454545455,
+        "kennzahl_pageviews": 0.1018821804,
+        "kennzahl_readtime": 0.0419178725,
+        "kennzahl_shares": 0.0808383234,
+        "title": "Komponier dir deinen eigenen Schrott-Track!",
+        "url": "http://www.tageswoche.ch/de/2016_53/kultur/738720/komponier-dir-deinen-eigenen-schrott-track.htm"
+      }
+    ],
+    "id": 1,
+    "nutzer": 86754,
+    "pageviews_news": 84872,
+    "pageviews_newswire": 17986,
+    "pageviews_total": 102858,
+    "published_articles": 47,
+    "top": [
+      {
+        "erfolgsindex": 2.9309340833,
+        "kennzahl_comments": 0.2954545455,
+        "kennzahl_pageviews": 1.4740650208,
+        "kennzahl_readtime": 0.0790791877,
+        "kennzahl_shares": 1.0823353293,
+        "title": "\u00abDie Solidarit\u00e4t ist riesig\u00bb",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/738891/die-solidaritaet-ist-riesig.htm"
+      },
+      {
+        "erfolgsindex": 2.7964650769,
+        "kennzahl_comments": 0.2272727273,
+        "kennzahl_pageviews": 2.2466878514,
+        "kennzahl_readtime": 0.2192110851,
+        "kennzahl_shares": 0.1032934132,
+        "title": "Lust auf Gef\u00fchle? Probieren Sie etwas Neues aus",
+        "url": "http://www.tageswoche.ch/de/2016_53/leben/738738/lust-auf-gefuehle-probieren-sie-etwas-neues-aus.htm"
+      },
+      {
+        "erfolgsindex": 2.2936656653,
+        "kennzahl_comments": 0.4318181818,
+        "kennzahl_pageviews": 0.5825470545,
+        "kennzahl_readtime": 0.2822944409,
+        "kennzahl_shares": 0.997005988,
+        "title": "Subventionen f\u00fcr alte Atomkraftwerke: Blochers teurer Plan kann nicht aufgehen",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/738972/subventionen-fuer-alte-atomkraftwerke-blochers-teurer-plan-kann-nicht-aufgehen.htm"
+      },
+      {
+        "erfolgsindex": 1.9548717899,
+        "kennzahl_comments": 0.2045454545,
+        "kennzahl_pageviews": 1.1629430457,
+        "kennzahl_readtime": 0.1742096369,
+        "kennzahl_shares": 0.4131736527,
+        "title": "Der kosovarische Freiheitsheld, der in Frankreich als Kriegsverbrecher verhaftet wurde",
+        "url": "http://www.tageswoche.ch/de/2017_1/international/739238/der-kosovarische-freiheitsheld-der-in-frankreich-als-kriegsverbrecher-verhaftet-wurde.htm"
+      },
+      {
+        "erfolgsindex": 1.6426169752,
+        "kennzahl_comments": 0.2272727273,
+        "kennzahl_pageviews": 0.8295282327,
+        "kennzahl_readtime": 0.2534806858,
+        "kennzahl_shares": 0.3323353293,
+        "title": "Warum ich der Anteilnahme nicht \u00fcber den Weg traue",
+        "url": "http://www.tageswoche.ch/de/2017_1/leben/738969/warum-ich-der-anteilnahme-nicht-ueber-den-weg-traue.htm"
+      },
+      {
+        "erfolgsindex": 1.5660996853,
+        "kennzahl_comments": 0.2954545455,
+        "kennzahl_pageviews": 0.4757760939,
+        "kennzahl_readtime": 0.296366052,
+        "kennzahl_shares": 0.498502994,
+        "title": "Zwei Jahre \u00abSchwarze Erle\u00bb: Basels letztes besetztes Haus l\u00e4sst sich feiern",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/739143/zwei-jahre-schwarze-erle-basels-letztes-besetztes-haus-laesst-sich-feiern.htm"
+      },
+      {
+        "erfolgsindex": 1.4904979956,
+        "kennzahl_comments": 0.5227272727,
+        "kennzahl_pageviews": 0.564360792,
+        "kennzahl_readtime": 0.1743680148,
+        "kennzahl_shares": 0.2290419162,
+        "title": "Wie wir Fotos von M\u00e4nnern w\u00e4hrend des Orgasmus suchten und scheiterten",
+        "url": "http://www.tageswoche.ch/de/2017_1/leben/738959/wie-wir-fotos-von-maennern-waehrend-des-orgasmus-suchten-und-scheiterten.htm"
+      },
+      {
+        "erfolgsindex": 1.4693154874,
+        "kennzahl_comments": 0.25,
+        "kennzahl_pageviews": 0.9318015155,
+        "kennzahl_readtime": 0.1033822354,
+        "kennzahl_shares": 0.1841317365,
+        "title": "Grippe: Wann m\u00fcssen Sie zum Arzt?",
+        "url": "http://www.tageswoche.ch/de/2017_1/leben/739135/grippe-wann-muessen-sie-zum-arzt.htm"
+      },
+      {
+        "erfolgsindex": 1.3065179697,
+        "kennzahl_comments": 0.7045454545,
+        "kennzahl_pageviews": 0.301735517,
+        "kennzahl_readtime": 0.2104166389,
+        "kennzahl_shares": 0.0898203593,
+        "title": "Ach herrje, wann h\u00f6rt das MEI-Theater endlich auf?",
+        "url": "http://www.tageswoche.ch/de/2016_53/schweiz/738724/ach-herrje-wann-hoert-das-mei-theater-endlich-auf.htm"
+      },
+      {
+        "erfolgsindex": 0.9438524848,
+        "kennzahl_comments": 0.2954545455,
+        "kennzahl_pageviews": 0.32969934,
+        "kennzahl_readtime": 0.1615129706,
+        "kennzahl_shares": 0.1571856287,
+        "title": "SP fordert Notschlafstelle mit Einzelzimmern",
+        "url": "http://www.tageswoche.ch/de/2017_1/basel/738974/sp-fordert-notschlafstelle-mit-einzelzimmern.htm"
+      }
+    ],
+    "week": "KW 1"
   }
 ]

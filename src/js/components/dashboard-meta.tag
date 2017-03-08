@@ -1,28 +1,13 @@
-<dashboard-meta xmlns="http://www.w3.org/1999/html">
-
-    <article class="wide">
-        <h2>Übersicht</h2>
-    </article>
+<dashboard-meta>
 
     <article class="short more">
-
-        <p class="metainfo">
-            <span class="kennzahl {flagged: this.classMulti}">
-                { String(opts.data.multisession).replace(/(.)(?=(\d{3})+$)/g,"$1'") }
-            </span>
-
-            <span class="infotext">
-                <span if="{ multisessionChange }">({ labelMulti }{ multisessionChange.toFixed(1) }%)</span>
-                <span> Nutzer mit mehr als fünf Besuchen</span>
-            </span>
-        </p>
 
         <p class="metainfo">
             <span class="kennzahl {flagged: this.classNutzer}">
                 { String(opts.data.nutzer).replace(/(.)(?=(\d{3})+$)/g,"$1'") }
             </span>
             <span class="infotext">
-                <span if="{ multisessionChange }">({ labelNutzer }{ nutzerChange.toFixed(1) }%)</span>
+                <span if="{ facebookChange }">({ labelNutzer }{ nutzerChange.toFixed(1) }%)</span>
                 <span> Nutzer insgesamt</span>
             </span>
         </p>
@@ -32,8 +17,19 @@
                 { opts.data.published_articles }
             </span>
             <span class="infotext">
-                <span if="{ multisessionChange }">({ labelPublished }{ publishedChange.toFixed(1) }%)</span>
+                <span if="{ facebookChange }">({ labelPublished }{ publishedChange.toFixed(1) }%)</span>
                 <span> publizierte Artikel</span>
+            </span>
+        </p>
+
+        <p class="metainfo">
+            <span class="kennzahl {flagged: this.classFacebook}">
+                { String(opts.data.facebook_interaktionen).replace(/(.)(?=(\d{3})+$)/g,"$1'") }
+            </span>
+
+            <span class="infotext">
+                <span if="{ facebookChange }">({ labelFacebook }{ facebookChange.toFixed(1) }%)</span>
+                <span> Facebook-Interaktionen der publizierten Artikel</span>
             </span>
         </p>
 
@@ -46,7 +42,7 @@
                 { String(opts.data.pageviews_news).replace(/(.)(?=(\d{3})+$)/g,"$1'") }
             </span>
             <span class="infotext">
-                <span if="{ multisessionChange }">({ labelNews }{ newsChange.toFixed(1) }%)</span>
+                <span if="{ facebookChange }">({ labelNews }{ newsChange.toFixed(1) }%)</span>
                 <span> Seitenaufrufe bei Eigenleistungen</span>
             </span>
         </p>
@@ -56,7 +52,7 @@
                 { String(opts.data.pageviews_newswire).replace(/(.)(?=(\d{3})+$)/g,"$1'") }
             </span>
             <span class="infotext">
-                <span if="{ multisessionChange }">({ labelNewswire }{ newswireChange.toFixed(1) }%)</span>
+                <span if="{ facebookChange }">({ labelNewswire }{ newswireChange.toFixed(1) }%)</span>
                 <span> Seitenaufrufe bei SDA</span>
             </span>
         </p>
@@ -67,7 +63,7 @@
                 { String(opts.data.pageviews_total).replace(/(.)(?=(\d{3})+$)/g,"$1'") }
             </span>
             <span class="infotext">
-                <span if="{ multisessionChange }">({ labelPageviews }{ pageviewsChange.toFixed(1) }%)</span>
+                <span if="{ facebookChange }">({ labelPageviews }{ pageviewsChange.toFixed(1) }%)</span>
                 <span>Seitenaufrufe insgesamt</span>
             </span>
         </p>
@@ -86,13 +82,13 @@
             }
 
             if(this.opts.previous) {
-                this.multisessionChange = calculateChange(this.opts.data.multisession, this.opts.previous.multisession)
-                if (this.multisessionChange > 0) {
-                    this.labelMulti = '+'
-                    this.classMulti = 0
+                this.facebookChange = calculateChange(this.opts.data.facebook_interaktionen, this.opts.previous.facebook_interaktionen)
+                if (this.facebookChange > 0) {
+                    this.labelFacebook = '+'
+                    this.classFacebook = 0
                 } else {
-                    this.labelMulti = ''
-                    this.classMulti = 1
+                    this.labelFacebook = ''
+                    this.classFacebook = 1
                 }
 
                 this.nutzerChange = calculateChange(this.opts.data.nutzer, this.opts.previous.nutzer)
@@ -142,16 +138,14 @@
 
 
             } else {
-                this.multisessionChange = ''
-                this.classMulti = 0
+                this.facebookChange = ''
+                this.classFacebook = 0
                 this.classNutzer = 0
                 this.classPublished = 0
                 this.classNews = 0
                 this.classNewswire = 0
                 this.classPageviews = 0
             }
-
-            console.log(opts)
 
         })
 

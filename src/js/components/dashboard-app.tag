@@ -5,11 +5,8 @@
         <h1>tageswoche.ch in Zahlen, { activeWeek }</h1>
     </article>
 
-    <article class="wide">
 
     <dashboard-selector weeks="{ opts.weeklyData }" aktiv="{ activeWeek }" onnextclick="{ this.changeWeek }"></dashboard-selector>
-
-    </article>
 
     <dashboard-meta data="{ dataset }" previous="{ previousDataset }"></dashboard-meta>
 
@@ -17,7 +14,8 @@
     <!-- Top -->
     <article class="short margin">
 
-        <h2>Top</h2>
+        <h2>Ziel erreicht</h2>
+
 
         <dashboard-top data="{ dataset }"></dashboard-top>
 
@@ -26,18 +24,27 @@
     <!-- Flop -->
     <article class="short margin">
 
-        <h2>Flop</h2>
+        <h2>Chance verpasst</h2>
 
         <dashboard-flop data="{ dataset }"></dashboard-flop>
 
     </article>
 
+    <article class="wide" style="text-align: center; margin-top: 20px;">
+        <div class="legend-box">
+            <div class="legend pageviews"></div><div class="legend-label">Pageviews</div>
+            <div class="legend shares"></div><div class="legend-label">Shares</div>
+            <div class="legend comments"></div><div class="legend-label">Kommentare</div>
+            <div class="legend readtime"></div><div class="legend-label">Lesezeit</div>
+        </div>
+    </article>
+
 
     <script type="text/babel">
 
-        this.activeWeek = 'KW 4'
+        this.activeWeek = 'KW 5'
 
-        this.previousID = 3
+        this.previousID = 4
 
         const findWeek = (data, current) => {
         return data.find(({week}) => week === current)
